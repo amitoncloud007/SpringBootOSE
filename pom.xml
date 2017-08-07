@@ -28,7 +28,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>hello</mainClass>
+                    <mainClass>hello.Application</mainClass>
                   </configuration>
             </plugin>
             <!-- tag::plugin[] -->
